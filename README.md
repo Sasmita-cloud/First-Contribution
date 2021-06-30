@@ -1,2 +1,2 @@
 # First-Contribution
-This is my first contribution
+I am trying to learn new thins in git
